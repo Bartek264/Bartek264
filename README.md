@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Bartek264
-- 👀 I’m interested in learning to write clean code 🧼
-- 🌱 I’m currently learning Java and C# programing
-- 💞️ I’m looking to cooperate as a Junior Java Developer
+- 👋 Hi, I’m Bartek 
+- 👀 I’m interested in learning how to write my own Android aplication 🧼
+- 🌱 I’m currently learning Java and Android Studio
+- 💞️ I’m looking to cooperate as a Junior Android Developer
 - 📫 How to reach me bartlomiej.siewierski@wp.pl
 
 <!---

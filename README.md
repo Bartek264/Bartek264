@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bartek 
 - 👀 I’m interested in learning how to write my own Android aplication 🧼
 - 🌱 I’m currently learning Kotlin and Android Studio
-- 💞️ I’m looking to cooperate as a Kotlin/Java Android Developer
+- 💞️ I’m looking to cooperate as a Android Developer
 - 📫 How to reach me bartlomiej.siewierski@wp.pl
 
 <!---

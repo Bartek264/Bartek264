@@ -26,9 +26,10 @@ I just started updating them so please be understanding :)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bartek264&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
-
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bartek264&v=2&theme=midnight-purple&show_icons=true" />
 </a>
+-->
 
 [linkedin]: https://linkedin.com/in/bartłomiej-siewierski-inzair

@@ -12,11 +12,12 @@
 ### Languages and Tools:
 
 <img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />
-<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226770.png" />
-<img align="left" alt="GitHub" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" />
+<img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" />
+<img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
+<img align="left" alt="Android Studio" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226770.png" />
+<img align="left" alt="Firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+<img align="left" alt="AdobeXD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" />
+<img align="left" alt="Jetpack" width="26px" src="https://www.pinclipart.com/picdir/big/519-5197901_android-jetpack-transparent-logo-clipart.png" />
 
 <br />
 

@@ -17,7 +17,14 @@
 <img align="left" alt="Android Studio" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226770.png" />
 <img align="left" alt="Firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="AdobeXD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" />
+
+
+<br />
+
+### Currently focused on:
+
 <img align="left" alt="Jetpack" width="26px" src="https://www.pinclipart.com/picdir/big/519-5197901_android-jetpack-transparent-logo-clipart.png" />
+<img align="left" alt="Jetpack" width="26px" src="http://blog.ippon.fr/content/images/2017/09/espresso.png" />
 
 <br />
 

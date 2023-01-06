@@ -1,7 +1,7 @@
-- 👀 I’m interested in learning how to write my own Android aplication 
-- 🌱 I’m currently learning how to make more and more complex applications using Kotlin and Android Studio
-- 👯 I’m looking to cooperate as a Junior Android Developer
-- 📫 How to reach me bartlomiej.siewierski@wp.pl
+<!-- - 👀 I’m interested in learning how to write my own Android aplication  -->
+<!-- - 🌱 I’m currently learning how to make more and more complex applications using Kotlin and Android Studio -->
+<!-- - 👯 I’m looking to cooperate as a Junior Android Developer -->
+<!-- - 📫 How to reach me bartlomiej.siewierski@wp.pl -->
 
 ### Connect with me:
 

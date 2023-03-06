@@ -24,7 +24,8 @@
 ### Currently focused on:
 
 <img align="left" alt="Jetpack" width="26px" src="https://www.pinclipart.com/picdir/big/519-5197901_android-jetpack-transparent-logo-clipart.png" />
-<img align="left" alt="Jetpack" width="26px" src="http://blog.ippon.fr/content/images/2017/09/espresso.png" />
+<img align="left" alt="Ktor" width="26px" src="https://seeklogo.com/images/K/ktor-icon-logo-C562808633-seeklogo.com.png" />
+<img align="center" alt="MongDB" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
 
 <br />
 

@@ -42,4 +42,4 @@ I just started updating them so please be understanding :)
 </a>
 
 
-[linkedin]: https://linkedin.com/in/bartłomiej-siewierski-inzair
+[linkedin]: https://www.linkedin.com/in/bart%C5%82omiej-siewierski-devmob
